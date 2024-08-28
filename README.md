@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Gill (you can call me Kiwi) 👋
+<a href="https://www.linkedin.com/in/pornpan-rattanawet-2501172a8/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 
-<!--
-**24Zen/24Zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated in Computer and Communication Engineering with an interest in coding and drawing. Currently, I am interested in Cybersecurity.
 
-Here are some ideas to get you started:
+<h5 style="display: inline;">Name: </h5>
+<p style="display: inline;">Pornpan Rattanawet</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 style="display: inline;">Phone: </h5>
+<p style="display: inline;">+66 452-5936</p>
+
+<h5 style="display: inline;">Email: </h5>
+<p style="display: inline;">panpanratta@gmail.com</p>
+<br>
+
