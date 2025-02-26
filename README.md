@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
-I graduated in Computer and Communication Engineering with an interest in coding and drawing. Currently, I am interested in Cybersecurity.
+I graduated in Computer and Communication Engineering with an interest in coding and drawing. Currently, I am interested in Cybersecurity and Machine learning.
 
 <h5 style="display: inline;">Name: </h5>
 <p style="display: inline;">Pornpan Rattanawet</p>
