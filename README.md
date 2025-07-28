@@ -8,9 +8,6 @@ I graduated in Computer and Communication Engineering with an interest in coding
 <h5 style="display: inline;">Name: </h5>
 <p style="display: inline;">Pornpan Rattanawet</p>
 
-<h5 style="display: inline;">Phone: </h5>
-<p style="display: inline;">+66 452-5936</p>
-
 <h5 style="display: inline;">Email: </h5>
 <p style="display: inline;">panpanratta@gmail.com</p>
 <br>
